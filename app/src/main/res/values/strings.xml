@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MvvM TodO LisT</string>
+    <string name="my_note_app">My Note App</string>
+    <string name="title">Title</string>
+    <string name="this_is_description">Description</string>
+    <string name="add">Add</string>
+    <string name="todo">TODO</string>
+</resources>
